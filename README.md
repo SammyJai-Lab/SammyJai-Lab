@@ -10,6 +10,8 @@
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=sammyjai-lab&count_private=true&theme=dracula&hide=stars,prs,issues,contribs" alt="sammyjai-lab" />
 
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyjai-lab&langs_count=8" alt="sammyjai-lab" />
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
