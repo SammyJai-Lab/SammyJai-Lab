@@ -6,11 +6,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyjai-lab&" alt="sammyjai-lab" />
+<img align="center" width="48%" height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=sammyjai-lab&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD" alt="sammyjai-lab" />
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=sammyjai-lab&count_private=true&theme=dracula&hide=stars,prs,issues,contribs" alt="sammyjai-lab" />
-
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyjai-lab&langs_count=8" alt="sammyjai-lab" />
+<!--- <img align="center" width="35%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyjai-lab&langs_count=2" alt="sammyjai-lab" /> --->
 
 ---
 
