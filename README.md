@@ -6,9 +6,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyjai-lab&" alt="sammyjai-lab" /></p>
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyjai-lab&" alt="sammyjai-lab" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyjai-lab&count_private=true&theme=dracula&hide=stars,prs,issues,contribs)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sammyjai-lab&count_private=true&theme=dracula&hide=stars,prs,issues,contribs" alt="sammyjai-lab" />
 
 ---
 
