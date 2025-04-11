@@ -15,4 +15,5 @@
 ---
 
 <h3 align="left">Also here is a cute gif:</h3>
-![Alt Text](kuromi.gif)
+
+![Kuromi](kuromi.gif)
